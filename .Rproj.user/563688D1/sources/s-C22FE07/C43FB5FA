@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591432072846.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C43FB5FA",
+    "lastKnownWriteTime" : 1591502625,
+    "last_content_update" : 1591502625439,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/Preprocesado.R",
+    "project_path" : "Preprocesado.R",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591418654377.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B339D5E",
+    "lastKnownWriteTime" : 1591425520,
+    "last_content_update" : 1591425520577,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/ww_web_scraping.R",
+    "project_path" : "ww_web_scraping.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

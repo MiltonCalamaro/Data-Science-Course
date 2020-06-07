@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591502673058.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "1793132732",
+    "id" : "F7B2E8BB",
+    "lastKnownWriteTime" : 1591514271,
+    "last_content_update" : 1591514271923,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/miKmeans.R",
+    "project_path" : "miKmeans.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

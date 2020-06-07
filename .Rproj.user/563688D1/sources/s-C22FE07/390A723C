@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591415648446.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "390A723C",
+    "lastKnownWriteTime" : 1591418686,
+    "last_content_update" : 1591418687053,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/diamond_visualization.R",
+    "project_path" : "diamond_visualization.R",
+    "properties" : {
+        "cursorPosition" : "8,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

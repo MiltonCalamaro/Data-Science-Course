@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591509694451.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "99EF2404",
+    "lastKnownWriteTime" : 1591511471,
+    "last_content_update" : 1591511471249,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/KmeanMainPB.R",
+    "project_path" : "KmeanMainPB.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

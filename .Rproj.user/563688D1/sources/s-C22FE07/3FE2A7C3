@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591512246778.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "4209080073",
+    "id" : "3FE2A7C3",
+    "lastKnownWriteTime" : 1591513876,
+    "last_content_update" : 1591513876448,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "9,49",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

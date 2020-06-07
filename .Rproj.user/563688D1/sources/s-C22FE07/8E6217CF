@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591512296260.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2128099748",
+    "id" : "8E6217CF",
+    "lastKnownWriteTime" : 1591514392,
+    "last_content_update" : 1591514392166,
+    "path" : "C:/Users/hamil/Desktop/Course Data Science/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "5,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
